@@ -1,0 +1,8 @@
+D:\Metrodata\Tugas MCC\StringGenerateInvoice\StringGenerateInvoice\bin\Debug\StringGenerateInvoice.exe.config
+D:\Metrodata\Tugas MCC\StringGenerateInvoice\StringGenerateInvoice\bin\Debug\StringGenerateInvoice.exe
+D:\Metrodata\Tugas MCC\StringGenerateInvoice\StringGenerateInvoice\bin\Debug\StringGenerateInvoice.pdb
+D:\Metrodata\Tugas MCC\StringGenerateInvoice\StringGenerateInvoice\obj\Debug\StringGenerateInvoice.csproj.AssemblyReference.cache
+D:\Metrodata\Tugas MCC\StringGenerateInvoice\StringGenerateInvoice\obj\Debug\StringGenerateInvoice.csproj.SuggestedBindingRedirects.cache
+D:\Metrodata\Tugas MCC\StringGenerateInvoice\StringGenerateInvoice\obj\Debug\StringGenerateInvoice.csproj.CoreCompileInputs.cache
+D:\Metrodata\Tugas MCC\StringGenerateInvoice\StringGenerateInvoice\obj\Debug\StringGenerateInvoice.exe
+D:\Metrodata\Tugas MCC\StringGenerateInvoice\StringGenerateInvoice\obj\Debug\StringGenerateInvoice.pdb
